@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\SoftwareEngeneering\TeamPJBrent\TeamPieter-JanBrent\TeamPjBrent\TeamPjBrent\bin\Debug\TeamPjBrent.exe.config
+C:\Users\Admin\Desktop\SoftwareEngeneering\TeamPJBrent\TeamPieter-JanBrent\TeamPjBrent\TeamPjBrent\bin\Debug\TeamPjBrent.exe
+C:\Users\Admin\Desktop\SoftwareEngeneering\TeamPJBrent\TeamPieter-JanBrent\TeamPjBrent\TeamPjBrent\bin\Debug\TeamPjBrent.pdb
+C:\Users\Admin\Desktop\SoftwareEngeneering\TeamPJBrent\TeamPieter-JanBrent\TeamPjBrent\TeamPjBrent\obj\Debug\TeamPjBrent.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SoftwareEngeneering\TeamPJBrent\TeamPieter-JanBrent\TeamPjBrent\TeamPjBrent\obj\Debug\TeamPjBrent.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftwareEngeneering\TeamPJBrent\TeamPieter-JanBrent\TeamPjBrent\TeamPjBrent\obj\Debug\TeamPjBrent.exe
+C:\Users\Admin\Desktop\SoftwareEngeneering\TeamPJBrent\TeamPieter-JanBrent\TeamPjBrent\TeamPjBrent\obj\Debug\TeamPjBrent.pdb
